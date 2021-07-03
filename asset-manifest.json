@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ShivaKumarRouthu/starting-react/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/ShivaKumarRouthu/starting-react/static/js/main.48749369.chunk.js",
+    "main.js.map": "/ShivaKumarRouthu/starting-react/static/js/main.48749369.chunk.js.map",
+    "runtime-main.js": "/ShivaKumarRouthu/starting-react/static/js/runtime-main.f4bfb3b3.js",
+    "runtime-main.js.map": "/ShivaKumarRouthu/starting-react/static/js/runtime-main.f4bfb3b3.js.map",
+    "static/js/2.656eccd6.chunk.js": "/ShivaKumarRouthu/starting-react/static/js/2.656eccd6.chunk.js",
+    "static/js/2.656eccd6.chunk.js.map": "/ShivaKumarRouthu/starting-react/static/js/2.656eccd6.chunk.js.map",
+    "static/js/3.30eb1745.chunk.js": "/ShivaKumarRouthu/starting-react/static/js/3.30eb1745.chunk.js",
+    "static/js/3.30eb1745.chunk.js.map": "/ShivaKumarRouthu/starting-react/static/js/3.30eb1745.chunk.js.map",
+    "index.html": "/ShivaKumarRouthu/starting-react/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/ShivaKumarRouthu/starting-react/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.656eccd6.chunk.js.LICENSE.txt": "/ShivaKumarRouthu/starting-react/static/js/2.656eccd6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ShivaKumarRouthu/starting-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4bfb3b3.js",
+    "static/js/2.656eccd6.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.48749369.chunk.js"
+  ]
+}
